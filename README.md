@@ -1,6 +1,5 @@
 # Sa_nails_art
 salon de uñas
-<!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
